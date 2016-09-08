@@ -1,1 +1,2 @@
 First new file
+Text added from MyNewBranch
