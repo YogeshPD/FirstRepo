@@ -2,3 +2,5 @@
 2
 changed for hot fix 1
 
+Changed in hot fix 2
+
